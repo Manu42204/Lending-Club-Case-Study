@@ -45,11 +45,7 @@ Primary objective for this case study is to apply Exploratory Data Analysis (EDA
 
 ## Acknowledgements
 - This project was inspired by Live session by Akash Makkar & Rob Mulla (https://www.youtube.com/@robmulla)
-- References if any...
-- This project was based on [Data Visualisation and EDA]
-  (https://learn.upgrad.com/course/7715/segment/53501/348416/1051918/5255633 )
-  (https://learn.upgrad.com/course/7715/segment/53501/348418/1051925/5255692)
-
+- This project was based on [Data Visualisation and Exploratory Data Analysis]
 
 ## Contact
 Created by Manish Kumar & Narendhar Tangella
