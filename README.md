@@ -15,17 +15,13 @@ Primary objective for this case study is to apply Exploratory Data Analysis (EDA
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-  Analyse the provided data loan set using Exploratory Data Analysis to understand various factors leading to loan default or Fully repaid Loans.
-- What is the background of your project?
-  Borrowers can apply for various kinds of loans e.g. Personal, business, auto refinancing, etc. 
+- Analyse the provided data loan set using Exploratory Data Analysis to understand various factors leading to loan default or Fully repaid Loans.
+- Borrowers can apply for various kinds of loans e.g. Personal, business, auto refinancing, etc. 
   Investors can decide whether to finance a loan or not on the basis of loan amount, customer background and etc. 
   Using various driving factors, the lending club can identify the applicants/loans that have higher chance of defaulting and reducing the risk to profitability.
 
-- What is the business probem that your project is trying to solve?
-  Lending Club wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and      risk assessment. 
-- What is the dataset that is being used?
-  loan.csv for the year 2007 and 2011
+- Lending Club wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and      risk assessment. 
+- Dataset - loan.csv for the years between 2007 and 2011.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
