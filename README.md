@@ -48,7 +48,6 @@ Primary objective for this case study is to apply Exploratory Data Analysis (EDA
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Live session by Akash Makkar & Rob Mulla (https://www.youtube.com/@robmulla)
 - References if any...
 - This project was based on [Data Visualisation and EDA]
@@ -57,8 +56,7 @@ Give credit here.
 
 
 ## Contact
-Created by [Manish Kumar @Manu42204] - feel free to contact me!
-Created by [Narendhar Tangella @narendhar007] - feel free to contact me!
+Created by Manish Kumar & Narendhar Tangella
 
 
 <!-- Optional -->
